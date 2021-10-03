@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/FreeFurniturePack/
+Content/HorrorEngine/
+Content/Movies/
+Content/ModernCityEnvironment01/
